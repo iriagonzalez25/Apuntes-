@@ -1,7 +1,5 @@
 # *Apuntes SQL - iria gonzález peteiro -*
 
--iria gonzález peteiro -
-
 
 # ESTILOS/PARADIGMAS DE LA PROGRAMACIÓN
 
