@@ -10,6 +10,7 @@ Existen dos estilos o paradigmas de la programación: el imperativo y el declara
 |Detalla los pasos (los algoritmos)      |Declara la intención                   |
 |Se centra en el cómo (cómo se hace algo)|Se centra en el qué (qué quieres hacer)|
 
+SQL es un lenguaje declarativo.
 
 El siguiente ejemplo es imperativo porque detalla todos los pasos de forma muy exhaustiva:
 _var numbers = [1, 2, 3, 4, 5]_
